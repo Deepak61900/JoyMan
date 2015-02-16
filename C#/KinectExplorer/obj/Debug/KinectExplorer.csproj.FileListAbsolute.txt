@@ -1,0 +1,15 @@
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\bin\Debug\KinectExplorer.exe.config
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\bin\Debug\KinectExplorer.exe
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\bin\Debug\KinectExplorer.pdb
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\obj\Debug\KinectExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\obj\Debug\MainWindow.g.cs
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\obj\Debug\App.g.cs
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\obj\Debug\KinectExplorer_MarkupCompile.cache
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\obj\Debug\KinectExplorer_MarkupCompile.lref
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\obj\Debug\MainWindow.baml
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\obj\Debug\KinectExplorer.g.resources
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\obj\Debug\KinectExplorer.exe
+C:\Users\Deepak\Desktop\Depth\C#\KinectExplorer\obj\Debug\KinectExplorer.pdb
